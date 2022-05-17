@@ -4,7 +4,7 @@ namespace ProblemSet1 {
     {
         static void Main(string[] args)
         {
-            p3.solve();
+            p1.solve();
         }
     }
 
